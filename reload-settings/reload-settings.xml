@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Spawned from Reload Scorm Player - http://www.reload.ac.uk-->
+<!--This is a version 1.2.2 SCORM 1.2 Sequencer Model-->
+<navigation default="test-ucf-js_ORG">
+  <manifest_last_modified>1528408600000</manifest_last_modified>
+  <item id="test-ucf-js_SCO" organization="test-ucf-js_ORG">passed</item>
+</navigation>
+
